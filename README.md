@@ -18,10 +18,11 @@ Bu proje, şirketlerin SGK, vergi ve ihale uygunluk durumlarını takip edebilme
 - Görselleştirme: Plotly, Chart.js
 
 📌 Kullanım
-1️⃣ Üye Olun → Giriş ekranından kayıt işlemini tamamlayın.
-2️⃣ Giriş Yapın → Doğru şifre ile giriş yaparak borçları görüntüleyin.
-3️⃣ Borçlarınızı Takip Edin → SGK ve vergi borçlarınızı listeleyin.
-4️⃣ Raporlar Oluşturun → Borç durumlarına göre PDF veya grafik raporları alın.
+   
+1️⃣ Üye Olun → Giriş ekranından kayıt işlemini tamamlayın.    
+2️⃣ Giriş Yapın → Doğru şifre ile giriş yaparak borçları görüntüleyin.     
+3️⃣ Borçlarınızı Takip Edin → SGK ve vergi borçlarınızı listeleyin.     
+4️⃣ Raporlar Oluşturun → Borç durumlarına göre PDF veya grafik raporları alın.     
 
 🔒 Güvenlik Önlemleri
 🔹 Şifreleme → Kullanıcı şifreleri bcrypt ile hashlenerek saklanır.
