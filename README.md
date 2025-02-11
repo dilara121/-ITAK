@@ -3,6 +3,7 @@
 🌟Bu proje, şirketlerin SGK, vergi ve ihale uygunluk durumlarını takip edebilmesi için geliştirilen bir web tabanlı uygulamadır. Kullanıcılar giriş yaparak borç durumlarını görüntüleyebilir, rapor oluşturabilir ve detaylı analizler yapabilir.
 
 📌 Özellikler
+
 ✅ Kullanıcı Yönetimi: Üye olma, giriş yapma, şifre kontrolü.
 ✅ Ana Sayfa & Hakkında: Web sitesinin amacı ve kullanılabilir işlemler hakkında bilgi.
 ✅ Borç Takip Modülü: SGK, vergi ve ihale uygunluk borçlarını takip etme.
