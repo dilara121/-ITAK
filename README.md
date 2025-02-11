@@ -5,10 +5,15 @@
 📌 Özellikler
 
 ✅ Kullanıcı Yönetimi: Üye olma, giriş yapma, şifre kontrolü.
+
 ✅ Ana Sayfa & Hakkında: Web sitesinin amacı ve kullanılabilir işlemler hakkında bilgi.
+
 ✅ Borç Takip Modülü: SGK, vergi ve ihale uygunluk borçlarını takip etme.
+
 ✅ Raporlama & Görselleştirme: Grafiklerle veri analizi ve geçmiş raporları görüntüleme.
+
 ✅ Bildirim Sistemi: Borç süresi yaklaşınca e-posta/SMS uyarıları.
+
 ✅ Web Tabanlı Yönetim Paneli: Yetkililerin kullanıcıları ve verileri yönetebileceği bir sistem.
 
 🛠️ Kullanılan Teknolojiler
