@@ -14,7 +14,7 @@ Bu proje, şirketlerin SGK, vergi ve ihale uygunluk durumlarını takip edebilme
 📚 Kullanılan Teknolojiler
 - Backend: Flask, Flask-SQLAlchemy, Flask-WTF, Flask-Login
 - Frontend: HTML, CSS, Bootstrap
-- Veritabanı: SQLite (isteğe bağlı PostgreSQL)
+- Veritabanı: MSSQL (isteğe bağlı PostgreSQL)
 - Görselleştirme: Plotly, Chart.js
 
 📌 Kullanım
