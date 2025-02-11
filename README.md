@@ -1,4 +1,4 @@
-📈 Ihale Uygunluk Takip Sistemi
+📈 İhale Takip ve Analiz Kontrolü
 
 🌟 Proje Hakkında
 Bu proje, şirketlerin SGK, vergi ve ihale uygunluk durumlarını takip edebilmesi için geliştirilen bir web tabanlı uygulamadır. Kullanıcılar giriş yaparak borç durumlarını görüntüleyebilir, rapor oluşturabilir ve detaylı analizler yapabilir.
