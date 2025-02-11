@@ -25,6 +25,7 @@ Bu proje, şirketlerin SGK, vergi ve ihale uygunluk durumlarını takip edebilme
 4️⃣ Raporlar Oluşturun → Borç durumlarına göre PDF veya grafik raporları alın.     
 
 🔒 Güvenlik Önlemleri
-🔹 Şifreleme → Kullanıcı şifreleri bcrypt ile hashlenerek saklanır.
-🔹 Yetkilendirme → Yetkisiz kullanıcılar kritik işlemleri gerçekleştiremez.
-🔹 SQL Injection Koruması → Tüm girişler doğrulanır ve filtrelenir.
+
+🔹 Şifreleme → Kullanıcı şifreleri bcrypt ile hashlenerek saklanır.   
+🔹 Yetkilendirme → Yetkisiz kullanıcılar kritik işlemleri gerçekleştiremez.     
+🔹 SQL Injection Koruması → Tüm girişler doğrulanır ve filtrelenir.    
