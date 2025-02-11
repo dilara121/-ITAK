@@ -1,0 +1,89 @@
+/* Genel Stil */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('/static/images/bg.jpg');
+    background-size: cover;    /* Görselin tam ekran kaplamasını sağlar */
+    background-position: center;
+    background-attachment: fixed; /* Sayfa kaydırıldığında arka plan sabit kalır */
+    background-repeat: no-repeat; /* Tekrar etmesini engeller */
+}
+
+/* Navbar */
+.navbar {
+    transition: background 0.3s ease-in-out;
+}
+
+.navbar.scrolled {
+    background: #3A5A98 !important;
+}
+
+.navbar-brand {
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #FFD700;
+}
+
+.btn-custom {
+    background-color: white;
+    color: #3A5A98;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: 0.3rem;
+    border: 2px solid #3A5A98;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+    background-color: #3A5A98;
+    color: white;
+}
+
+/* Hero Bölümü */
+.hero-section {
+    background: url("{{ url_for('static', filename='images/bg.jpg') }}") no-repeat center center/cover;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+/* Hakkımızda */
+.about-section {
+    padding: 60px 0;
+    text-align: center;
+    background: #f8f9fa;
+}
+
+/* İletişim Bölümü */
+.contact-section {
+    padding: 40px 0;
+    background: #3A5A98;
+    color: white;
+    text-align: center;
+}
