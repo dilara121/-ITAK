@@ -1,0 +1,1 @@
+# -hake-Uygunluk-Tkaip-Sistemi
